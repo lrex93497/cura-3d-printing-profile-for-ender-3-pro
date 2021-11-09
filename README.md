@@ -13,7 +13,8 @@ See below picture for a Cryptex Combination Safe (7-ring, all number) I printed 
 <img src="photo/cryptex_sample2.JPG" width="700"><br />
 
 I get the stl from : <https://www.thingiverse.com/thing:586169>
-All moving parts move smoothly, just a little resistence, I haven't sand the parts at all. Such result is quite good for a FDM 3d printer.
+
+</br>All moving parts move smoothly, just a little resistence, I haven't sand the parts at all. Such result is quite good for a FDM 3d printer.
 
 </br></br>
 
