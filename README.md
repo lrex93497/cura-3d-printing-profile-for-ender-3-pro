@@ -1,10 +1,10 @@
 # cura 3d printing profile for ender 3 pro
 
 This is the setting for the ender 3 pro, a 3d printer to print well with using cura to generate gcode. I conclude this after some try, with Creality white 1.75mm PLA 
-Filament. This profile is also good for 0.1mm and 0.3mm layer height, but the best is 0.2mm. I choose these settings in this profile because I think it is at the balance 
-of product strength, printing speed, and material usage. I suggest using paper masking tape and pasting that on the factory printing bed, which can provide a good 
-griping on the product when in printing, without the need to use too much effort to pull it out of the printer bed (if printing on the original printer bed, the product 
-will stick at there hardly, which is very hard to pull it out). 
+Filament. With 0.4mm nozzle. This profile is also good for 0.1mm and 0.3mm layer height, but the best is 0.2mm. I choose these settings in this profile because I think it is 
+at the balance of product strength, printing speed, and material usage. I suggest using paper masking tape and pasting that on the factory printing bed, which can 
+provide a good griping on the product when in printing, without the need to use too much effort to pull it out of the printer bed (if printing on the original printer 
+bed, the product will stick at there hardly, which is very hard to pull it out). 
 </br></br>
 
 See below picture for a Cryptex Combination Safe (7-ring, all number) by SavageRodent @Thingverse,  I printed using the profile:
